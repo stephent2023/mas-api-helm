@@ -17,5 +17,5 @@ mas           	https://stephent2023.github.io/mas-api-helm/
 
 This API needs to be connected to a database to function. Do by appending the following to helm install:
 ```
-helm install api-container mas/mas-api **--set DB_USER=... --set DB_PASS=... --set DB_NAME=... --set DB_ENDPOINT=...**
+helm install api-container mas/mas-api --set DB_USER=... --set DB_PASS=... --set DB_NAME=... --set DB_ENDPOINT=...
 ```
