@@ -3,12 +3,13 @@ entries:
   mas-api:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-04-03T12:00:04.6130255+01:00"
+    created: "2023-04-06T11:08:40.0270299+01:00"
     description: A Helm chart to create a container for MAS_API
-    digest: e24589aa1162732a466e7274c0a47e6934c4532388fbdb777164c38150e4262e
+    digest: 652ca983fff712525d20c51bf456f3421421b563ee07f0919d789b40508daf2b
+    icon: https://avatars.githubusercontent.com/u/124163684?v=4
     name: mas-api
     type: application
     urls:
     - mas-api-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-03T12:00:04.6117123+01:00"
+generated: "2023-04-06T11:08:40.0142842+01:00"
